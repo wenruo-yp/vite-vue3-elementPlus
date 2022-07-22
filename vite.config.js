@@ -55,7 +55,7 @@ export default ({ mode }) =>{
             },
         },
         server: {
-            host: '172.20.4.72',
+            host: 'localhost',
             port:8080,
             proxy:{
               '/assets':{
